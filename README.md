@@ -5,6 +5,9 @@ Streamline Productivity. Simplify Workflow. Ship Faster.
 A production-inspired Full Stack Task Management Platform engineered for modern teams and individuals to organize workflows, track progress, and manage productivity efficiently. Built with scalable architecture, secure authentication, and a clean developer-focused UI.
 
 ⚡ Features
+
+
+
 🔐 Secure JWT Authentication
 
 📝 Create, Update & Delete Tasks
