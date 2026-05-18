@@ -28,12 +28,21 @@ A production-inspired Full Stack Task Management Platform engineered for modern 
 🚀 Production-Style Full Stack Workflow
 
 🛠️ Tech Stack
+
+
 Frontend
+
+
 React.js
+
 
 Tailwind CSS
 
+
+
 Axios
+
+
 
 Backend
 Node.js
@@ -46,15 +55,27 @@ MongoDB
 Mongoose
 
 Authentication
+
+
 JWT Authentication
 
 🚀 Installation
+
+
 Clone Repository
+
+
 git clone https://github.com/Supritam-005/TASK-MANAGER-FULL-STACK-.git
 
 🔧 Backend Setup
+
+
 cd server
+
+
 npm install
+
+
 npm start
 
 💻 Frontend Setup
@@ -66,8 +87,14 @@ npm run dev
 
 🌐 Environment Variables
 Create a .env file inside the server folder:
+
+
 PORT=5000
+
+
 MONGO_URI=your_mongodb_connection
+
+
 JWT_SECRET=your_secret_key
 
 
