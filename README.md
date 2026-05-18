@@ -1,23 +1,72 @@
 🚀 TASK MANAGER FULL STACK
-Built a modern full-stack productivity app focused on clean UI, secure authentication, and scalable backend architecture. Designed to streamline task management with real-world development practices and production-style workflows.
+Streamline Productivity. Simplify Workflow. Ship Faster.
+A production-inspired Full Stack Task Management Platform engineered for modern teams and individuals to organize workflows, track progress, and manage productivity efficiently. Built with scalable architecture, secure authentication, and a clean developer-focused UI.
 
-⚡ Highlights
-🔐 JWT Authentication
+⚡ Features
+🔐 Secure JWT Authentication
 
-📌 Task CRUD Operations
+📝 Create, Update & Delete Tasks
 
-⚡ REST API Integration
+📌 Task Status & Priority Management
 
-📱 Responsive UI
+⚡ RESTful API Integration
 
-🧠 Scalable Backend Structure
+📱 Fully Responsive UI
 
-☁️ MongoDB Database
+🧠 Clean & Scalable Folder Structure
 
-🚀 MERN Stack Powered
+☁️ MongoDB Database Integration
+
+🚀 Production-Style Full Stack Workflow
 
 🛠️ Tech Stack
-React.js • Node.js • Express.js • MongoDB • Tailwind CSS
+Frontend
+React.js
+
+Tailwind CSS
+
+Axios
+
+Backend
+Node.js
+
+Express.js
+
+Database
+MongoDB
+
+Mongoose
+
+Authentication
+JWT Authentication
+
+🚀 Installation
+Clone Repository
+git clone https://github.com/Supritam-005/TASK-MANAGER-FULL-STACK-.git
+
+🔧 Backend Setup
+cd server
+npm install
+npm start
+
+💻 Frontend Setup
+
+cd client
+npm install
+npm run dev
+
+
+🌐 Environment Variables
+Create a .env file inside the server folder:
+PORT=5000
+MONGO_URI=your_mongodb_connection
+JWT_SECRET=your_secret_key
+
 
 👨‍💻 Developer
 Supritam Mukhopadhyay
+
+
+
+
+
